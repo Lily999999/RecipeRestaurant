@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="bottom_tab_title_active">
+        <item name="android:textSize">13sp</item>
+    </style>
+
+
+    <style name="bottom_tab_title_inactive">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+    <style name="RoundedStyle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+    </style>
+
+    <style name="CircleStyle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="tab_style" tools:ignore="ResourceName">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="textInputLayout">
+        <item name="android:textColorHint">#808080</item>
+        <item name="colorControlNormal">#222222</item>
+        <!--        <item name="android:colorError">@android:color/holo_red_dark</item>-->
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chip_item_bg">#1d1d1d</color>
+    <color name="config_level_two_font_color">#ffffff</color>
+    <color name="main">#FA838B</color>
+</resources>

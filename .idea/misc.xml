@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/avd_collection_collection.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/avd_recipe_recipe.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/avd_restaurant_restaurant.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/chip_item_bg.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_back_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_baseline_folder_special_24.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_baseline_restaurant_menu_24.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_check_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_collection_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_favourites.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_folder_special.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_google_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_menu_book.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_my_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_phone_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_profile_background.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_profile_foreground.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_recipe_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_restaurant_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_restaurant_background.xml" value="0.2985" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_restaurant_foreground.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_restaurant_menu.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_search_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_smile.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_star_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_star_border_24.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/ic_twitter.xml" value="0.1" />
+        <entry key="..\:/DishRecommender/app/src/main/res/drawable/rect_footer.xml" value="0.294" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout-w1240dp/activity_favourite.xml" value="0.25" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.25" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout-w1240dp/activity_preference.xml" value="0.25" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout-w1240dp/activity_profile.xml" value="0.25" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout-w936dp/activity_login.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_favourite.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_favourites.xml" value="0.5" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_home.xml" value="0.5" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_preference.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_recipe.xml" value="0.36666666666666664" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_recipe_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_recommendation.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_restaurant.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/activity_sign_up.xml" value="0.5" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/fragment_collection.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/fragment_collection_recipe.xml" value="0.36666666666666664" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/fragment_collection_restaurant.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/fragment_my.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/fragment_recipe.xml" value="0.36666666666666664" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/fragment_register.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/fragment_restaurant.xml" value="0.36666666666666664" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/item_chip.xml" value="0.33" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/item_collection_rv_recipe.xml" value="0.36666666666666664" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/item_collection_rv_restaurant.xml" value="0.5" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/item_recipe_rv.xml" value="0.5" />
+        <entry key="..\:/DishRecommender/app/src/main/res/layout/item_restaurant_rv.xml" value="0.5" />
+        <entry key="..\:/DishRecommender/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2985" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

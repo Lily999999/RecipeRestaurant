@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tastePreferences">
+        <item>none</item>
+        <item>afghan</item>
+        <item>american </item>
+        <item>australian</item>
+        <item>barbecue</item>
+        <item>brazilian</item>
+        <item>british</item>
+        <item>cambodian </item>
+        <item>chinese</item>
+        <item>colombian</item>
+        <item>cuban</item>
+        <item>egyptian</item>
+        <item>ethiopian </item>
+        <item>fast food</item>
+        <item>filipino</item>
+        <item>french</item>
+        <item>german</item>
+        <item>greek </item>
+        <item>hungary</item>
+        <item>india</item>
+        <item>indonesian</item>
+        <item>iranian</item>
+        <item>iraqi </item>
+        <item>italian</item>
+        <item>japanese</item>
+        <item>korean</item>
+        <item>lebanese </item>
+        <item>malaysian</item>
+        <item>mexican</item>
+        <item>nepali</item>
+        <item>nordic</item>
+        <item>pakistani </item>
+        <item>peruvian</item>
+        <item>polish</item>
+        <item>romanian</item>
+        <item>russian</item>
+        <item>spanish </item>
+        <item>sri Lankan</item>
+        <item>syrian</item>
+        <item>thai</item>
+        <item>turkish</item>
+        <item>vietnamese </item>
+        <item>yemeni</item>
+    </string-array>
+    <string-array name="dietaryRequirements">
+        <item>none</item>
+        <item>halal</item>
+        <item>vegan </item>
+        <item>vegetarian</item>
+    </string-array>
+</resources>
